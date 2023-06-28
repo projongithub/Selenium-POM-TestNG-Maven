@@ -14,5 +14,5 @@
 			<class name="com.crm.qa.testcases.FlightTestCases"></class>
 			<class name="com.crm.qa.testcases.SearchFlightTestCases"></class>
 		</classes>
-	</test> <!-- Test -->
+	</test> <!-- Test 123-->
 </suite> <!-- Suite -->
